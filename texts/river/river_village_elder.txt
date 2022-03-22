@@ -1,0 +1,7 @@
+0-1-1-river_tax,0-0-0-1->Welcome stranger. Why did you come here?-Ask about life in River Village&2-Say 'I came to collect taxes'&6-Say 'What's going on nowadays'&3-Ask opinions about overlord Remo&4-Say Good Bye&5
+1-1-1-0-0-0-0->Welcome stranger. Why did you come here?-Ask about life in River Village&2-What's going on nowadays&3-Ask opinions about overlord Remo&4-Say Good Bye&5
+2-1-0-0-0-0-0->We catch fish and sell them. Our welfare is better than the surrounding villages. It's a shame to say lord Remo likes fish. I take it to him with my hands sometimes, for free of course. 
+3-1-0-0-0-go_text-0-texts\\river\\river_nowadays.txt
+4-1-0-0-0-0-0->We love our great lord.
+5-1-0-0-0-0-quit->Good bye sir, have a nice day.
+6-1-1-0-0-collect_taxes-quit-river_tax

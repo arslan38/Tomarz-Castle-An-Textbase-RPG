@@ -1,0 +1,7 @@
+0-1-1-forest_tax,0-0-0-1->Welcome stranger. Why did you come here?-Ask about life in Forest Village&2-Say 'I came to collect taxes'&6-Say 'What's going on nowadays'&3-Ask opinions about overlord Remo&4-Say Good Bye&5
+1-1-1-0-0-0-0->Welcome stranger. Why did you come here?-Ask about life in Forest Village&2-What's going on nowadays&3-Ask opinions about overlord Remo&4-Say Good Bye&5
+2-1-0-0-0-0-0->It's not like your life in the castle. We work for you, we live for you, we die for you... You know all of them. \nWe love our overlord but tell him this for me: Let him cut taxes.\nIf it continues like this, the villager will revolt. Of course, I do not encourage \nrebellion, do not take it that way.I'm just saying what can happen. That's all.
+3-1-0-0-0-go_text-0-texts\\forest\\forest_nowadays.txt
+4-1-0-0-0-0-0->We love our great lord.
+5-1-0-0-0-0-quit->Good bye sir, have a nice day.
+6-1-1-0-0-collect_taxes-quit-forest_tax

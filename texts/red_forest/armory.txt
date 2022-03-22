@@ -1,0 +1,8 @@
+0-1-1-bomb_trap,0-0-0-1-Bomb is ready.-Go Back&2
+1-0-1-0-0-0-2-You entered the armory tent of monsters.There are many swords, shields, alcohol bottles, powder kegs and arrows inside.-Go and Look Around&4-Go Back&2
+2-1-0-0-0-0-quit-You're back in the center.
+3-0-1-0-0-0-0-You saw there are lots of bottle of alcohols and powder kegs near to you.-Take alcohols.&5-Prepare traps from powder kegs.&7-Go Back&2
+4-0-1-alcohol_loot,0-0-0-3-You saw there powder kegs near to you.-Prepare traps from powder kegs.&7-Go Back&2
+5-1-0-0-0-alcohol_loot-6->
+6-1-0-0-alcohol_loot,0-0-4-You took bottles.
+7-1-0-0-bomb_trap,0-0-2-You learned this trick from the gunsmith in the castle. A booby trap. After the soldiers come in, it is enough to put the rope you put on someone's foot. The fuse will ignite and they will all blow up.

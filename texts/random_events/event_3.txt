@@ -1,0 +1,7 @@
+0-1-1-0-0-0-0->You found a wallet full of gold on the floor.-Take and own it.&4-Get it and find its owner.&2-Go away&1
+1-1-0-0-0-0-3->You left your wallet there and walked away...
+2-1-0-0-0-0-quit-You picked up the wallet from the floor and looked inside. Inside was a badge that was only for castle guards. You went to the guards' place and found the owner. The wallet owner, who was about to lose almost all of his assets, was delighted and gave you 10 percent of the money.
+3-1-0-0-0-money_add-6-{player.money//10}
+4-1-0-0-0-money_add-5-{player.money//5}
+5-1-0-0-0-0-quit->You put your wallet in your pocket and continued on your way.
+6-1-0-0-0-0-quit->You set off with the peace of mind that you did a good deed.

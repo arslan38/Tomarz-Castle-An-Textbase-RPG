@@ -1,0 +1,5 @@
+You hit a good blow with your {player.weapon.name}. The {enemy_name} fell back.
+After turning your {player.weapon.name} in your hand, you made a move that would cut the {enemy_name}\'s feet off the ground.
+You threw your {player.weapon.name} into the {enemy_name}\'s chest and knocked down the {enemy_name} and took back your {player.weapon.name}.
+{enemy_name} ran towards you and jumped at you. You countered the move with {player.weapon.name}, dropped his weapon and kicked him. 
+You ran into the {enemy_name}, slid between his legs, came up behind him, and shot him in the back.

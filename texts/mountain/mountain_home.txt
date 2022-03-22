@@ -1,0 +1,3 @@
+0-1-1-0-0-0-0-You entered inn-Sleep(Max Health)&1-Go Village Square&2
+1-1-1-0-0-health-0-You took a deep sleep against the mountain view.
+2-1-0-0-0-0-quit-You turn back.

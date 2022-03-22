@@ -1,0 +1,7 @@
+0-1-1-0-0-0-0->You saw 3 people trying to harass a woman.-Save her.&2-Go away&1
+1-1-0-0-0-0-quit->You left the woman in the hands of these rapists and left...
+2-1-0-0-0-fight-3,4-random_punks
+3-1-0-0-0-money_add-6-{player.money//10}
+4-1-0-0-0-money_del-5-{player.money//5}
+5-1-0-0-0-0-quit->They took half of your money.
+6-1-0-0-0-0-quit->You beat them and saved the woman. With a kiss of thanks, the woman ran away. You noticed that the wallet of one of the men you beat up fell on the floor and you picked it up. 

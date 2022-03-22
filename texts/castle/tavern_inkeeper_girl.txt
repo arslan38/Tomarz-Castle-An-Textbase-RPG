@@ -1,0 +1,2 @@
+0-1-1-0-0-0-0->I can't talk with you right now.-Say bye&1
+1-1-0-0-0-0-quit->Bye:(

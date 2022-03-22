@@ -1,0 +1,5 @@
+0-1-1-0-0-0-0->Welcome sir. How can I help you?-Ask about life in Tomarz Castle&1-Ask about high prices&2-Ask opinions about overlord Remo&3-Say Good Bye&4
+1-1-0-0-0-0-0->Ahh Tomarz Castle where i was born and raised. I only went out a few times \nthis castle is my whole life.I love this simple life.Even though the people \nhere don\'t have a lot of money, they are not poor.The villages are said to be \nvery poor.They had even more difficulty with the things that shouted and dressed \nlike animals that came by the Red Forest. Thats all I can say now. \n>You should visit the shop more often {player.name}.
+2-1-0-0-0-0-0->We are going through difficult days sir. You know sir, the economic situation of the castle is not good at all.
+3-1-0-0-0-0-0->God bless him. He is a great, handsome, foresighted, muscled... Ohom,ohom. I am loyal to him.
+4-1-0-0-0-0-quit->Good bye sir, have a nice day.

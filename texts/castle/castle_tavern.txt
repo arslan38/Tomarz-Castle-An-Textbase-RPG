@@ -1,0 +1,8 @@
+0-1-1-0-0-0-0-You entered the tavern.-Drink something(1 gold)&1-Talk with innkeeper&2-Talk with innkeeper's girl&3-Talk with these men&4-Go Town Center&5
+1-1-1-0-0-tavern_wine-0-
+2-1-1-0-0-go_dialog-0-texts\\castle\\tavern_inkeeper.txt
+3-1-1-0-0-go_dialog-0-texts\\castle\\tavern_inkeeper_girl.txt
+4-1-1-0-0-0-0-The men who saw you are approaching straightened.-Talk with Nakres&6-Talk with Afatsum&7
+5-1-0-0-0-go_dialog-0-texts\\castle\\castle_main.txt
+6-1-0-0-0-go_dialog-0-texts\\castle\\tavern_nakres.txt
+7-1-0-0-0-go_dialog-0-texts\\castle\\tavern_afatsum.txt

@@ -1,0 +1,5 @@
+0-1-1-0-0-0-10->Hello {player.name}. What do you want?-Play Dice Roll Game&1-Say 'Good by Afatsum'&3
+1-0-0-0-0-0-2->Okay, let's start.\n\nSince gambling is prohibited, you move into one of the rooms at the back of the tavern.
+2-0-0-0-0-special_loc-0-gambling
+3-0-0-0-0-0-quit-Good bye {player.name}.
+

@@ -1,0 +1,10 @@
+0-1-1-0-0-0-0-You entered Forest Village.-Go Village Elder&1-Go and Get Some Rest&2-Go Local Shop&3-Go Hunting&4-Go Out&5
+1-1-0-0-0-go_dialog-0-texts\\forest\\forest_village_elder.txt
+2-1-0-0-0-go_dialog-0-texts\\forest\\forest_home.txt
+3-1-0-0-0-go_dialog-0-texts\\forest\\forest_shop.txt
+4-1-0-0-0-0-0-You cannot hunt at this season.
+5-1-1-0-0-0-0-Where do you want to go?-Tomarz Castle&6-River Village&7-Mountain Village&8-Stay&0
+6-1-0-0-0-go_location-0-texts\castle\castle_main.txt
+7-1-0-0-0-go_location-0-texts\river\river_main.txt
+8-1-0-0-0-go_location-0-texts\mountain\mountain_main.txt
+

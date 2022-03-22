@@ -1,0 +1,5 @@
+0-1-1-0-0-0-0->Welcome son. How can I help you?-Ask about life in Tomarz Castle&1-Ask if his daughter is married&2-Ask opinions about overlord Remo&3-Say Good Bye&4
+1-1-0-0-0-0-0->You talk about this cursed castle. Peh.(pointing to his daughter)I ended my life while chasing this dumb girl between those four walls that sucked my soul. I dealt with drunk people, stinking guys,cocky commanders... \nAhh. I am sorry son. I know you are a good person. \n>You should visit the tavern more often {player.name}
+2-1-0-0-0-0-0->Ha ha ha... You are funny son. Who would want this ugly and stupid girl.
+3-1-0-0-0-0-0->A bit of a tough leader. The villagers were not happy, as I heard.
+4-1-0-0-0-0-quit->Good bye son good bye.

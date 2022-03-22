@@ -1,0 +1,3 @@
+0-1-1-0-0-0-0-You entered home-Sleep(Max Health)&1-Go Town Center&2
+1-1-1-0-0-health-0-You sleeped well. You feel perfect.
+2-1-0-0-0-0-quit-You turn back.

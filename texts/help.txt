@@ -1,0 +1,13 @@
+#############################################
+
+Written by H.Burak Arslan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In this game you are free to where you want to go.
+You should use numbers to pick which option you want.
+There are 3 main stats in game. Health,damage coefficent and diplomatic.
+Damage coefficent times damage range of weapon is your final damage.
+You can convince enemies if you have enough diplo stat to do not fight but you can't get any loot for this fight.
+You can not die while playing but if your health goes to zero you will lose money and your progress.
+While playing the game, you have to discover for yourself how to earn money or which way to go. Write your own story.
+Every time you change location, the game is saved and starts from where you last left off. 
+If you want to close the game just close the window but do not forget to change location before closing.

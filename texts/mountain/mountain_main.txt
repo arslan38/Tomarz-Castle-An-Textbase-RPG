@@ -1,0 +1,9 @@
+0-1-1-0-0-0-0-You entered Mountain Village.-Go Mountain Elder&1-Go and Get Some Rest&2-Go Local Shop&3-Go Sidewiew&4-Go Out&5
+1-1-0-0-0-go_dialog-0-texts\\mountain\\mountain_village_elder.txt
+2-1-0-0-0-go_dialog-0-texts\\mountain\\mountain_home.txt
+3-1-0-0-0-go_dialog-0-texts\\mountain\\mountain_shop.txt
+4-1-0-0-0-0-0-You went to see a beautiful mountain view. You could see the whole land from here. You thought how small and insignificant everything seems. Even that huge castle could fit between your two fingers. 
+5-1-1-0-0-0-0-Where do you want to go?-Tomarz Castle&6-Forest Village&7-River Village&8-Stay&0
+6-1-0-0-0-go_location-0-texts\castle\castle_main.txt
+7-1-0-0-0-go_location-0-texts\forest\forest_main.txt
+8-1-0-0-0-go_location-0-texts\river\river_main.txt

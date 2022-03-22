@@ -1,0 +1,17 @@
+0-1-1-0-0-0-0-You entered town center.-Go Home&1-Go Overlord&2-Go Shop&3-Go Tavern&4-Go Out&5
+1-1-0-0-0-go_dialog-0-texts\\castle\\castle_home.txt
+2-1-1-poison,0-0-0-10-You came his room's door.-Get in&12-Run away and disappear forever.&15
+3-1-0-0-0-go_dialog-0-texts\\castle\\castle_shop.txt
+4-1-0-0-0-special_loc-0-tavern
+5-1-1-0-0-0-0-Where do you want to go?-River Village&6-Forest Village&7-Mountain Village&8-Red Forest&9-Stay&0
+6-1-0-0-0-go_location-0-texts\river\river_main.txt
+7-1-0-0-0-go_location-0-texts\forest\forest_main.txt
+8-1-0-0-0-go_location-0-texts\mountain\mountain_main.txt
+9-1-0-0-0-go_location-0-texts\red_forest\entry.txt
+10-1-1-change,0-0-0-11-You came his room's door.-Get in&13-Run away and disappear forever.&14
+11-1-0-0-0-go_dialog-0-texts\\castle\\castle_overlord.txt
+12-1-0-poison,0-0-go_dialog-9-texts\\castle\\poison_overlord.txt
+13-1-0-change,0-0-go_dialog-9-texts\\castle\\change_overlord.txt
+14-1-0-poison,0-0-0-15-You ran away without looking back. But you couldn't live long, poisoned like that. You lost consciousness while on your horse and died near the forest village. The villagers who found you realized that this time you were not unconscious but dead. They carried you to the castle anyway. Thinking that the rebels were responsible for this, the lord took a group of soldiers to the red forest to gather information on the attack plan. And you to the cemetery. 
+15-1-0-change,0-0-0-16-You ran away without looking back. Cowardly and renegade bastard. You don't even have the right to finish the game. Get out. 
+16-1-0-0-0-end-0->

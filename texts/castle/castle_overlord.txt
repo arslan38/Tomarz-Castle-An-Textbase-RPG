@@ -1,0 +1,12 @@
+0-0-1-0-0-0-0-You entered the throne room \n\nThen he said \'Come here {player.name}. I need you. There is an monster \nits name is "Koray". It lives in Red Forest and is attacking my villages with his men. \nYou should go Red Forest and check what is going on here. If you can, kill this monster.\nBut if you want to enter Red Forest you should get \'talking parrot\' for guiding in Red Forest.\'\n-Learn more about "Koray"&1-Ask if there is any other mission for you&8-Go Town Center&3
+1-1-1-0-Main Mission,0-0-0->I send some of my guards and they said that there are creatures with fur and screaming like animals but they couldn't get in the Red Forest. \nAlso my peasants said those monsters raided the villages.\nRed forest soil is a barren and wooded region. No sane person has entered those lands for years. \nPrepare before you go on this mission. You may have to fight a lot of battles on the way. \nWe don't know what you'll encounter, which is why I'm sending you there. You are one of my best guards. \n\n>Be careful.\n-Ask when to leave&4-Understood&0  
+2-1-1-Overlord Mission,0-0-0-5->What did you do with the task I gave you?\n-Say you ain't done yet&7
+3-1-0-0-0-0-quit->You can go {player.name}
+4-1-0-0-0-0-0->If you are ready, you can leave immediately.
+5-1-0-0-Overlord Mission,0-overlord_mission-0->Good Luck!
+6-1-0-0-0-overlord_done-0-<
+7-1-0-0-0-0-0->That's not good. Go and finish!
+8-0-1-Overlord Mission,1-0-0-9->What did you do with the task I gave you?\n-Say you have done&6-Say you ain't done yet&7
+9-0-1-Overlord Mission,99-0-0-2->What did you do with the task I gave you?\n-Say you couldn't done&10
+10-1-0-0-0-main_del-11-Overlord Mission
+11-1-0-0-0-0-quit->Get out {player.name}, you clumsy.

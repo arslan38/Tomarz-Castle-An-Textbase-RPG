@@ -1,0 +1,6 @@
+*******************************************************************************
+You are a one of the favorite {player.char_type} guards of the overlord Remo in Tomarz Castle.
+Remo is a powerful and influential leader and you are loyal to him.
+You have jobs to do and you should get your mission from Remo. He is in his castle.
+You can also go tavern and meet some people. Or you can go shop and buy items.
+*******************************************************************************

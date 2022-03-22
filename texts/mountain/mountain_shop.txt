@@ -1,0 +1,6 @@
+0-1-1-0-0-0-0-You entered the local shop.-Talk With Farmer&1-Buy Items&2-Sell Items&3-Go Village Square&4
+1-1-1-0-0-go_dialog-0-texts\\\mountain\\\mountain_seller.txt
+2-1-1-0-0-buy_shop-0-mountain
+3-1-1-0-0-sell_shop-0-mountain
+4-1-1-0-0-0-quit-You turn back.
+

@@ -1,0 +1,6 @@
+0-1-1-0-0-0-0->A young girl of about 15 came to you crying. She said they had no money left from paying taxes and that her younger brother was sick.-Stop collecting taxes&1-Let a small child die.&2
+1-1-0-0-0-mission_del-4-forest_tax,Overlord Mission
+2-1-0-0-0-mission_done-5-forest_tax,Overlord Mission
+3-1-0-0-0-mission_del-4-forest_tax,Overlord Mission
+4-1-0-0-0-0-quit->Mission Failed. You couldn't collect taxes but you saved the child.
+5-1-0-0-0-0-quit->Mission Succesfull but you couldn't saved the child.

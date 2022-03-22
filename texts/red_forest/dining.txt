@@ -1,0 +1,12 @@
+0-0-1-food,0-0-0-1-You have already eaten.-Go Back&2
+1-0-1-0-0-0-2-You entered the dining tent of monsters.-Go and Eat Something&3-Go Back&2
+2-1-0-0-0-0-quit-You're back in the center.
+3-1-1-0-0-0-0-There are 2 options in front of you.-A red slurry and a yellow liquid.&4-What looks like a potato and a solid bread.&4
+4-1-1-0-0-0-0-You took your food and walked towards the soldiers beyond the tent.-Go and Sit Next to the Soldiers&5-Go and Eat Alone.&6
+5-1-1-0-0-0-0-You sat next to the soldiers. At first they looked at you strangely then they continued to eat. After you finished your meals, a soldier came to you.\n\n>I don't know you.-Say 'I am new.'&7-Say 'You have not seen,I was here.'&8
+6-1-0-0-food,0-0-2-You ate alone and went out again. 
+7-1-0-0-0-0-9->New? \n\n>We are introduced to everyone who comes here first. Let's take him to the commander. \n\nThey took you by the arms and dragged you to the commander.
+8-1-1-0-0-0-0->Are you Isma?-Say 'Yes I am. We even raided a village with you before.'&10-Say 'No I am Esli.Since you don't know me, you didn't attend all the meetings.'&11
+9-1-0-0-0-go_dialog-0-texts\\red_forest\\commander2.txt
+10-1-0-0-0-0-9->Did we raid the village? I haven't even stepped foot out of this camp. Let's take this liar to the commander. 
+11-1-0-0-food,0-0-2-The man shyly remained silent. You quickly ate your last bite and left. 

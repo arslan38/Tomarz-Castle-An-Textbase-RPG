@@ -1,0 +1,6 @@
+0-1-1-0-0-0-0-You entered the shop.-Talk With Seller&1-Buy Items&2-Sell Items&3-Go Town Square&4
+1-1-1-0-0-go_dialog-0-texts\\castle\\shop_seller.txt
+2-1-1-0-0-buy_shop-0-castle
+3-1-1-0-0-sell_shop-0-castle
+4-1-1-0-0-0-quit-You turn back.
+

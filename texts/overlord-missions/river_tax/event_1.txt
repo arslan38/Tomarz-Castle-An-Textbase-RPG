@@ -1,0 +1,7 @@
+0-1-1-0-0-0-0->A few villagers came to the house where you were staying and started shouting and throwing stones at the window.-Keep Sleeping &1-Go Out and Beat the Villagers&2
+1-1-0-0-0-0-4->You continued to sleep and the number of villagers in front of the house increased. They began to force the doors of the house. When you realized that you couldn't deal \nwith so many villagers, you ran out of the window behind the house. 
+2-1-0-0-0-fight-3,4-mission_tax
+3-1-0-0-0-mission_done-6-river_tax,Overlord Mission
+4-1-0-0-0-mission_del-5-river_tax,Overlord Mission
+5-1-0-0-0-0-quit->Mission Failed.
+5-1-0-0-0-0-quit->Mission Succesfull.

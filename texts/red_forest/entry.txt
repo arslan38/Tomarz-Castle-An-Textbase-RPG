@@ -1,0 +1,24 @@
+0-1-1-Main Mission,0-0-0-1-You cannot get in without Talking Parrot!-Go Castle&2
+1-0-1-Main Mission,1-0-0-2-You entered the Red Forest. This is a dark area with dense trees and red soil. Parrot start talking with you and it said there are 3 ways.-Go Right&3-Go Left&21-Go Forward&6-Go Back to Castle&2
+2-0-0-0-0-0-23->Get prepared! Talk with overlord or go shop.
+3-0-1-Cloth,1-0-0-4-Parrot says there is a giant red tree and here are two roads ahead. The one on the right is dark and long. Now there is nothing on left. -Go Right&17-Go Back&1
+4-0-1-0-0-0-0-Parrot says there is a giant red tree and here are two roads ahead.The one on the right is dark and long. Sounds are coming from the left. -Go Right&17-Go Left&7-Go Back&1
+5-0-1-0-0-0-1-Parrot says this is the entrance of a cave. When you entered, you came across surgical materials and a patient bed. Next to it was a small chest.-Try Open Chest&18-Go Back&1
+6-0-1-0-0-0-1-Now there are lots of light so you dont need parrot. On the left you see a large group and tents. If you get in there without a disguise, you're dead. On the right, you see a less guarded compound. You can sneak in there.-Go Right&16-Go Left&15-Go Back&1
+7-0-0-0-Cloth,0-fight-8,9-fight_red
+8-1-0-0-Cloth,1-0-3-You've seen monsters beg and scream like humans as they die. There was blood all over us. Now you have those monster's clothes.
+9-0-0-0-0-0-0-They beat you so badly. You could barely escape to the castle. 
+10-0-1-0-0-0-1->Parrot says, you came to a cemetery.There are a lot of tombstones here.The kind of stones that a human would make...You stood in front of a stone. -Read Tombstone&11-Plunder the Tombs&12-Go Back&3
+11-1-0-0-0-0-17-Aethelu Agnes \n\nA good mother and a good wife...\n\nRest in Peace.
+12-0-0-0-0-fight-13,14-fight_red
+13-0-0-0-plunder,0-0-17-You killed them, looted the items. 
+14-0-0-0-0-0-0-You almost died trying to steal something. 
+15-1-0-0-0-go_dialog-6-texts\\red_forest\\main.txt
+16-1-0-0-0-go_dialog-6-texts\\red_forest\\village.txt
+17-0-1-plunder,0-0-0-10->You came to a cemetery.There are a lot of tombstones here.The kind of stones that a human would make...You stood in front of a stone. -Read Tombstone&11-Go Back&3
+18-1-0-0-0-surprise_chest-19,20-Got item.
+19-1-0-0-chest_doc,1-0-1-Flower essence mix came out in the box. You can treat yourself in time of war. 
+20-1-0-0-chest_doc,0-0-1-You failed to open it and the chest was locked forever. 
+21-0-1-chest_doc,0-0-0-22-You have come to the entrance of a cave. When you entered, you saw locked small chest.-Go Back&1
+22-0-1-chest_doc,1-0-0-5-You have come to the entrance of a cave. When you entered, you saw opened small chest.-Go Back&1
+23-0-1-0-0-go_location-0-texts\castle\castle_main.txt

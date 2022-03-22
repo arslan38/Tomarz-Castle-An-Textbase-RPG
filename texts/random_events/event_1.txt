@@ -1,0 +1,8 @@
+0-1-1-0-0-0-0->Two punks approached you to rob you.-Oppose them.&2-Give them a third of the money in your wallet and take them away.&1
+1-1-0-0-0-money_del-7-{player.money//3}
+2-1-0-0-0-fight-3,4-random_punks
+3-1-0-0-0-money_add-6-{player.money//5}
+4-1-0-0-0-money_del-5-{player.money//2}
+5-1-0-0-0-0-quit->They took half of your money.
+6-1-0-0-0-0-quit->You go on your way...
+5-1-0-0-0-0-quit->They took third of your money. And run away.

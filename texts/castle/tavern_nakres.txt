@@ -1,0 +1,13 @@
+0-1-1-Nakres Mission,0-0-0-10->How about the fish?-Say 'Here they are.'&6-Say 'They are waiting to be caught.'&8
+1-1-1-0-0-0-0->I'm so glad to hear that, I'm fine too. Then can I ask you something? My boy is craving fish, can you go from the river village and catch a few? It's out of our market, I'll buy it from you at the market price.-Say 'Sure'&5-Say 'I cannot do it right now.'&4 
+2-1-1-0-0-0-0->I hope you will be better. Then can I ask you something? My boy is craving fish, can you go from the river village and catch 5 fish for me? It's out of our market, I'll buy it from you at the market price.-Say 'Sure'&5-Say 'I cannot do it right now.'&4 
+3-1-0-0-0-0-quit->If you feel bad, I will not tire you at all, let's have a drink and chat with you.\n\nYou had a good time sitting with your old friend. 
+4-1-0-0-0-0-quit-That's okay my friend.I'm here for a while if you change your mind. 
+5-1-0-0-Nakres Mission,0-0-quit-I'm glad to hear it too. I am waiting for you as soon as possible. 
+6-1-1-0-0-check_inventory-9,8-Fish,5
+7-1-1-0-0-0-0->Ooo {player.name}, how have you been since we saw each other?-Say 'Good'&1-Say 'Not Bad'&2-Say 'Bad'&3
+8-1-0-0-0-0-quit->That's ok. I can wait a little longer.
+9-1-0-0-Nakres Mission,1-0-12->Thank you. You've made me very happy.I'll give you 30 GOLD per fish for getting me out of this predicament.  
+10-1-1-Nakres Mission,1-0-0-7->Good to see you.-Say 'Bye'&11
+11-1-0-0-0-0-quit->Bye
+12-1-1-0-0-money_add-11-{150}

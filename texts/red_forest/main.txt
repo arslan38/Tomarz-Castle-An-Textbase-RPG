@@ -1,0 +1,8 @@
+0-0-1-Cloth,1-0-0-1-Two soldiers at the entrance of the camp greeted you. \n\n>Still waiting for food? Where have you been? Go get food from the women right now. -I bring them&1-Go Back and Get Foods&4
+1-0-1-bring_food,0-0-0-2-You entered the base of monsters.Up close, they don't look like monsters at all.They look like \nevil looking creatures with humanlike graves, staying in humanlike tents.-Go Armory&5-Go Commander&6-Go Dining Hall&7-Go Back&4
+2-1-1-Cloth,0-0-0-3-You cannot get in without Monster Cloths!-Go Back and Find Cloths&4
+3-1-0-0-0-0-quit->Get prepared!
+4-1-0-0-0-0-quit->You turn back.
+5-1-0-0-0-go_dialog-1-texts\\red_forest\\armory.txt
+6-1-0-0-0-go_dialog-1-texts\\red_forest\\commander1.txt
+7-1-0-0-0-go_dialog-1-texts\\red_forest\\dining.txt
