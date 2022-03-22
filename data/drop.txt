@@ -1,0 +1,25 @@
+Interactive,Bird Heart,20,20,Health,0,0
+Interactive,Bird Heart,20,20,Health,0,0
+Interactive,Bird Heart,20,20,Health,0,0
+Interactive,A Bottle of Flammable Alcohol,50,50,Attack,0,1
+Interactive,A Bottle of Flammable Alcohol,50,50,Attack,0,1
+Interactive,Throwable Axe,30,25,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,Flower Essence Mix ,50,35,Health,0,1
+Interactive,Flower Essence Mix ,50,35,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Banana,30,25,Health,0,1

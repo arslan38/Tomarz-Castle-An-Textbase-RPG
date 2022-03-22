@@ -1,0 +1,14 @@
+Bandit,Powerful,5,10,2,10-20,20,40,5
+Bandit,Clever,5,10,1,5-10,20,40,10
+Bandit,Weak,5,10,1,2.5-5,20,40,5
+Robber,Charismatic,5,10,2,2.5-5,30,50,10
+Robber,Crippled,10,15,1,2.5-5,20,40,5
+Peasant,Old,5,10,0.5,2.5-5,15,25,100
+Peasant,Young,5,10,1,2.5-5,20,30,100
+Monster,Ugly,5,10,1.5,2.5-5,15,25,100
+Monster,Muscled,5,10,2,2.5-5,20,30,100
+Monster,Old,5,10,1,2.5-5,20,30,100
+Monster,Young,5,10,2.5,2.5-5,20,30,100
+Punk,Cheeky,5,10,1,5-10,20,40,10
+Punk,Quiet,5,10,1,2.5-5,20,40,5
+Punk,Dump,5,10,2,10-20,20,40,5

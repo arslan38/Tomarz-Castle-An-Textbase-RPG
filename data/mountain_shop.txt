@@ -1,0 +1,10 @@
+Interactive,Potato,5,5,Health,0,1
+Interactive,Potato,5,5,Health,0,1
+Interactive,Potato,5,5,Health,0,1
+Interactive,Potato,5,5,Health,0,1
+Interactive,Meat,20,20,Health,0,1
+Interactive,Meat,20,20,Health,0,1
+Interactive,Meat,20,20,Health,0,1
+Interactive,Meat,20,20,Health,0,1
+Interactive,a Thick Rod,20,20,Attack,0,1
+Interactive,Flower Essence Mix,50,50,Health,0,1

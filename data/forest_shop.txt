@@ -1,0 +1,7 @@
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Apple,15,15,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Flower Essence Mix,50,50,Health,0,1
