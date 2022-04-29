@@ -3,7 +3,7 @@
 <img width="470" alt="2" src="https://user-images.githubusercontent.com/49092119/159477641-167e4a11-1374-4423-9244-d65793e53696.png">
 
 
-This repository contains a textbase prg game engine that coded with python.
+This repository contains a textbase rpg game engine that coded with python.
 
 #### İmportant Note: A lot of things in this project can be changed without coding. Simply attempt to embrace the point and make the changes.
 
