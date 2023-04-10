@@ -1,0 +1,9 @@
+Interactive,Apple,15,15,Health,0,1
+Interactive,Potato,5,5,Health,0,1
+Interactive,Banana,30,25,Health,0,1
+Interactive,Fish,20,10,Health,0,1
+Interactive,Fish,20,10,Health,0,1
+Interactive,Fish,20,10,Health,0,1
+Interactive,Fish,20,10,Health,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,Flower Essence Mix,50,50,Health,0,1

@@ -1,0 +1,11 @@
+Clothing,Simple Belt,20,1,Diplo,waist,1
+Clothing,Embroidered  Belt,100,4,Diplo,waits,1
+Clothing,Caftan,100,4,Diplo,body,1
+Clothing,Old Boots,10,5,Health,foot,1
+Clothing,Guard Boots,50,15,Health,foot,1
+Special,Talking Parrot,400,0,0,Special,0
+Interactive,Bird Heart,20,20,Health,0,0
+Interactive,A Bottle of Flammable Alcohol,50,50,Attack,0,1
+Interactive,Throwable Axe,30,25,Attack,0,1
+Interactive,a Big Stone ,10,10,Attack,0,1
+Interactive,Flower Essence Mix ,50,35,Health,0,1
